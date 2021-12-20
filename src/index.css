@@ -31,3 +31,10 @@ header p {
 input, button {
     display: block;
 }
+.GenAlert{
+    width: 80vw;
+    margin: auto;
+}
+.active{
+    color: red;
+}
